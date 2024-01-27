@@ -1,0 +1,46 @@
+html{
+  position: relative;
+  min-height: 100%;
+}
+
+body{
+  margin: 0;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background: rgb(0, 44, 24);
+    color: rgb(21, 255, 0);
+  }
+
+.links {
+    overflow: scroll;
+    background-color: #333;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.links a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 60px;
+  text-decoration: none;
+}
+
+.links a:hover {
+  background-color: white;
+  color: black;
+}
+
+footer {
+  background-color: black;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+  color: white;
+}
