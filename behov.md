@@ -2,6 +2,8 @@
 
 - Gärna så tydligt och stort som möjligt att vi tiggar folks skänkningar av gamla datorer.
 
+- Tydlig discord-länk
+
 - Fyra flikar: en "about us", en om medlemskap, en med kontaktinformation, och en showcase-sida. Kanske ska tänka om hela interfacet lite grann, medlemskap och kontaktinfo kanske kan kombineras, flikarna kanske ska vara vertikalt på sidan istället för horisontellt under headern, kanske kan anpassas lite grann enligt temat av nån retrodator. Vi listar ut vad som är mest läsbart
 
 - Themed omkring interfacet av nån specifik retro OS, med samma färger och typsnitt. Antingen att den ser ut som interfacet av typ Windows 98 eller liknande, eller straight up ser ut som typ en command line. Viktigare dock att det är tydligt än att det är snyggt. Vi tar all krimskrams sen
