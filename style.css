@@ -5,14 +5,18 @@ html{
 
 body{
   margin: 0;
+  font-family: 'Windows', 'MS Sans Serif';
+  background-color: #BDBDBD;
 }
 
 .header {
-    padding: 10px;
-    text-align: center;
-    background: rgb(0, 44, 24);
-    color: rgb(21, 255, 0);
-  }
+  background: url("header.png") no-repeat;
+  background-size: 100%;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  
+}
 
 .links {
     overflow: scroll;
@@ -35,6 +39,11 @@ body{
   color: black;
 }
 
+.meat {
+  text-align: center;
+  font-size: large;
+}
+
 footer {
   background-color: black;
   position: relative;
@@ -43,4 +52,5 @@ footer {
   height: 40px;
   width: 100%;
   color: white;
+  background-attachment: fixed;
 }
