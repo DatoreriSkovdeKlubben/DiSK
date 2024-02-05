@@ -4,24 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DISK - Datorer I Skövde Klubben</title>
-    <link rel="stylesheet" href="https://unpkg.com/98.css" />
+    <link rel="stylesheet" href="98.css-main/style.css" />
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="header">
-        <h1>DiSK</h1>
+        <div class="title-bar">
+            <h1>DiSK</h1>
+        </div>
         <p>C:\Users\DiSK>echo Välkommen till Datorer i Skövde Klubben! <br>Välkommen till Datorer i Skövde Klubben!</p>
     </div>
 
-    <div class="links">
+    <div class="links" style="font-size: larger;">
         <button disabled>OM OSS</button>
-        <button onclick="membership.html">MEDLEMSKAP</button>
-        <button onclick="contactus.html">KONTAKTINFORMATION</button>
-        <button onclick="showcase.html">SHOWCASE</button>
+        <button onclick="window.location.href='membership.html'">MEDLEMSKAP</button>
+        <button onclick="window.location.href='contactus.html'">KONTAKTINFORMATION</button>
+        <button onclick="window.location.href='showcase.html'">SHOWCASE</button>
     </div>
 
-    <div class="meat">
-        <h1>OM FÖRENINGEN</h1>
+    <div class="window" style="width: 512px; left: 50%; margin-right: auto; margin-left: auto; font-size: larger;">
+        <div class="title-bar">
+            <div class="title-bar-text">OM FÖRENINGEN</div>
+            <div class="title-bar-controls">
+                <button aria-label="Minimize"></button>
+                <button aria-label="Maximize"></button>
+                <button aria-label="Close"></button>
+            </div>
+        </div>
         <p>välkommen till datorklubben jao text bild text bild text inspirerande motton</p>
         <p>vårt syfte är att bevara, utbilda, arkivera och förmedla hård- och mjukvara, med ett fokus på det nordiska</p>
         <p>vi är en klubb och ett museum</p>

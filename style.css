@@ -14,13 +14,16 @@ body{
   background-color: #BDBDBD;
 }
 
+h1 {
+  text-align: center;
+}
+
 .header {
   background: url("header.png") no-repeat;
   background-size: 100%;
   padding: 10px;
   text-align: center;
   color: white;
-  
 }
 
 .links {
@@ -42,11 +45,6 @@ body{
 .links a:hover {
   background-color: white;
   color: black;
-}
-
-.meat {
-  text-align: center;
-  font-size: large;
 }
 
 footer {
