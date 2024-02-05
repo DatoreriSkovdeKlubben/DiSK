@@ -3,6 +3,11 @@ html{
   min-height: 100%;
 }
 
+@font-face {
+  font-family: "Windows";
+  src: url(https://www.dafont.com/leviwindows.font?text=All+your+base+belong+to+us.+Cancel+OK);
+}
+
 body{
   margin: 0;
   font-family: 'Windows', 'MS Sans Serif';
