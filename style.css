@@ -57,3 +57,9 @@ footer {
   color: white;
   background-attachment: fixed;
 }
+
+.console {
+  background-color: black;
+  color: white;
+  padding: 1px;
+}
