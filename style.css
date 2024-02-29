@@ -8,7 +8,11 @@ html{
   src: url(https://dl.dafont.com/dl/?f=leviwindows);
 }
 
-body{
+table{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   margin: 0;
   font-family: 'Windows', 'MS Sans Serif';
   background-color: #BDBDBD;
