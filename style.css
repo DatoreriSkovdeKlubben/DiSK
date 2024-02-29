@@ -54,7 +54,7 @@ h1 {
   background-color: white;
   color: black;
 }
-
+/*
 footer {
   background-color: black;
   position: relative;
@@ -65,6 +65,7 @@ footer {
   color: white;
   background-attachment: fixed;
 }
+*/
 
 .console {
   background-color: black;
@@ -75,11 +76,11 @@ footer {
 }
 
 .window {
-  height: 900px;
+  height: 800px;
 }
 
 .page-content {
-  height: 865px;
+  height: 735px;
   color: black;
   padding-inline-start: 10px;
   text-align: left;
@@ -87,5 +88,11 @@ footer {
 }
 
 .links-thing {
-  height: 695px;
+  height: 600px;
+  text-align: left;
+  white-space: initial;
+}
+
+h5 {
+  font-size: 20px;
 }

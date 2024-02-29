@@ -33,3 +33,7 @@ https://www.abc80.net/
 ^ finns också detta museum
 https://museum.ipsj.or.jp/en/index.html
 ^ och denna, virtuellt museum
+
+att fixa (29/02-2024)
+- göra allt lite mindre spaghetti, så att det är enklare att jobba med
+- kan man göra sociala media länkar som win98 desktop ikoner?
